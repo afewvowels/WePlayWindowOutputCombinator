@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2026. 10. 31
+  Features:
+    - Painted a new sprite for the WOC.
+    - New thumbnail.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2026. 10. 31
+  Features:
+    - Created window output combinator reborn mod.

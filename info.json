@@ -1,0 +1,9 @@
+{
+  "name": "WePlayWindowOutputCombinator",
+  "version": "0.0.2",
+  "title": "WePlay: Window Output Combinator Reborn",
+  "author": "WePlay",
+  "factorio_version": "2.1",
+  "description": "A combinator that cycles through its input signals one at a time, outputting each for a configurable number of ticks. Re-imagined for 2.1.",
+  "dependencies": ["base >= 2.1"]
+}
